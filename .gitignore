@@ -1,0 +1,11 @@
+*.csv
+*/*
+*.png
+*.jpg
+*.txt
+*.npy
+*.p
+*.npz
+*.ipynb
+*.index
+*.zip
